@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+select {
+    -webkit-appearance: none; /* for Chrome, Safari, and newer versions of Edge */
+    -moz-appearance: none;    /* for Firefox */
+    appearance: none;         /* for modern browsers */
+    background: transparent;  /* makes the background transparent */
+}
+
+select::after {
+    content: '';
+    position: absolute;
+    right: 10px; /* adjust as needed */
+    pointer-events: none;
+}

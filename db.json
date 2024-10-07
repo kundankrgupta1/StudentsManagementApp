@@ -1,0 +1,112 @@
+{
+  "students": [
+    {
+      "id": "APS9960",
+      "admission_number": "9960",
+      "name": "KUNDAN KUMAR GUPTA",
+      "class": "12",
+      "section": "B",
+      "busId": "AB-12CA-3456",
+      "current_status": "studying",
+      "qrCodeData": {
+        "id": "APS9960",
+        "admission_number": "9960",
+        "name": "KUNDAN KUMAR GUPTA",
+        "class": "12",
+        "section": "B",
+        "busId": "AB-12CA-3456",
+        "current_status": "studying"
+      }
+    },
+    {
+      "id": "APS0026",
+      "admission_number": "0026",
+      "name": "RAJU MAHAJAN",
+      "class": "10",
+      "section": "A",
+      "busId": "TN-12LS-8975",
+      "current_status": "absent",
+      "qrCodeData": {
+        "id": "APS0026",
+        "admission_number": "0026",
+        "name": "RAJU MAHAJAN",
+        "class": "10",
+        "section": "A",
+        "busId": "TN-12LS-8975",
+        "current_status": "absent"
+      }
+    },
+    {
+      "id": "APS7755",
+      "admission_number": "7755",
+      "name": "MANISH",
+      "class": "12",
+      "section": "A",
+      "busId": "AP-12CM-3684",
+      "current_status": "studying",
+      "qrCodeData": {
+        "id": "APS7755",
+        "admission_number": "7755",
+        "name": "MANISH",
+        "class": "12",
+        "section": "A",
+        "busId": "AP-12CM-3684",
+        "current_status": "studying"
+      }
+    },
+    {
+      "id": "APS3625",
+      "admission_number": "3625",
+      "name": "HIMANI SINGH",
+      "class": "11",
+      "section": "B",
+      "busId": "CG-04FL-4076",
+      "current_status": "studying",
+      "qrCodeData": {
+        "id": "APS3625",
+        "admission_number": "3625",
+        "name": "HIMANI SINGH",
+        "class": "11",
+        "section": "B",
+        "busId": "CG-04FL-4076",
+        "current_status": "studying"
+      }
+    },
+    {
+      "id": "APS4209",
+      "admission_number": "4209",
+      "name": "RINKU",
+      "class": "9",
+      "section": "C",
+      "busId": "CG-04MU-2606",
+      "current_status": "studying",
+      "qrCodeData": {
+        "id": "APS4209",
+        "admission_number": "4209",
+        "name": "RINKU",
+        "class": "9",
+        "section": "C",
+        "busId": "CG-04MU-2606",
+        "current_status": "studying"
+      }
+    },
+    {
+      "id": "APS1022",
+      "admission_number": "1022",
+      "name": "PRINCE",
+      "class": "10",
+      "section": "B",
+      "busId": "CG-04FL-4076",
+      "current_status": "absent",
+      "qrCodeData": {
+        "id": "APS1022",
+        "admission_number": "1022",
+        "name": "PRINCE",
+        "class": "10",
+        "section": "B",
+        "busId": "CG-04FL-4076",
+        "current_status": "absent"
+      }
+    }
+  ]
+}
